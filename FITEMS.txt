@@ -1,0 +1,5 @@
+1 Quadro Arte 500 1500 90 Joao Rodrigo
+2 Laptop Desporto 500 1500 100 Joao Rodrigo
+3 Bola Arte 30 500 200 Joao Rodrigo
+4 Bicicleta Veiculo 500 1500 40 Joao Rodrigo
+5 Regua Escola 2 5 100 Joao Rodrigo

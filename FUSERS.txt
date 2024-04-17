@@ -1,0 +1,6 @@
+Joao a01 20000
+Rodrigo a02 2497
+Manuel a02 100
+Carlos a04 250
+Filipe a05 1000
+
